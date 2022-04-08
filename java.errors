@@ -1,0 +1,4 @@
+Starting audit...
+[WARN] /home/student/Desktop/pa/T1/./Statistics.java:119: Line is longer than 100 characters (found 114). [LineLength]
+[WARN] /home/student/Desktop/pa/T1/./Statistics.java:131: Line is longer than 100 characters (found 114). [LineLength]
+Audit done.
